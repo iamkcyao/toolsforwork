@@ -1,0 +1,4 @@
+# DB名稱 S3位置 NAS位置
+# 此行以上需刪除 ，僅留以下DB資訊
+# DB名稱 NASFOLDERPATH S3FOLDERPATH
+# template /backup/MASTERDB/Finance/ db-backup/OO/homes/XXBK/MASTERDB/Finance/ 

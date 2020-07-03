@@ -1,0 +1,2 @@
+#   ServerName  CPU RAM ROOT-IMAGE  ROOT-SIZE   DATA-IMAGE  DATA-SIZE   tags , 依序輸入需求名稱及規格 , 並用tab做間隔
+gcp-wjkr-test2	4	8192	wjkr-test-root	30	wjkr-test-data	200	wjkr-test
